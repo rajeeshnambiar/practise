@@ -1,2 +1,2 @@
 # practise
-for practise
+for purely practise
